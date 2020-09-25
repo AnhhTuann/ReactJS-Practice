@@ -1,0 +1,28 @@
+.navbar {
+  height: 100px;
+  background-color: #333;
+  color: whitesmoke;
+  margin-bottom: 15px;
+  text-align: center;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0;
+}
+
+.logo {
+  display: block;
+  text-indent: -9999px;
+  width: 100px;
+  height: 82px;
+  background: url(../logo.svg);
+  background-size: 100px 82px;
+}
+a:link {
+  text-decoration: none;
+}
+
+.link {
+  color: whitesmoke;
+}
